@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://canhobiencongminh.blogspot.com/' target='_blank'><img src='https://1.bp.blogspot.com/-KzKGcHgx7Zo/W2HFBcYGBgI/AAAAAAAABCY/CM-JyHiq6TQBVYFTnI_w4gZJOKznVFcZACLcBGAs/s640/Pubs%2Bstreet%2B-%2BCopy.jpg' width='500px'/><br/>KÊNH ĐẦU TƯ SIÊU LỢI NHUẬN</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://canhobiencongminh.blogspot.com/' target='_blank'><img src='https://1.bp.blogspot.com/-KzKGcHgx7Zo/W2HFBcYGBgI/AAAAAAAABCY/CM-JyHiq6TQBVYFTnI_w4gZJOKznVFcZACLcBGAs/s640/Pubs%2Bstreet%2B-%2BCopy.jpg' width='500px'/><br/>KÊNH ĐẦU TƯ SIÊU LỢI NHUẬN</a>. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
